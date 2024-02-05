@@ -1,0 +1,7 @@
+{
+  "name": "image-to-text-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
